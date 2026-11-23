@@ -1,10 +1,14 @@
 ---
 layout: post
 title: Putting Thoughts into Words
-categories: [Personal]
-tags: [blogging, writing, reflection]
+categories:
+- Personal
+tags:
+- blogging
+- writing
+- reflection
+date: 2026-11-23 15:05 +0800
 ---
-
 I have always been interested in many things: books, science, philosophy, history, technology, photography, and the world around me. I enjoy reading, exploring unfamiliar ideas, and occasionally making things with my own hands.
 
 Yet I have often found that there is a gap between consuming ideas and making something of them. We read countless pages, encounter an endless stream of information, and have thoughts that come and go. But how much of it do we really take the time to understand, reflect upon, and put into our own words?
