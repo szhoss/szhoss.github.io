@@ -121,7 +121,7 @@ comments:
   giscus:
     repo: szhoss/szhoss.github.io # <gh-username>/<repo>
     repo_id: R_kgDOV4K5Bw
-    category: Announcements
+    category: Comments
     category_id: DIC_kwDOV4K5B84DLxNL
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
